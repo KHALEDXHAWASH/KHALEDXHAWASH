@@ -31,12 +31,9 @@
 ### 📬 Contact Me
 
 - 📧 Email: [khaledhawash143@gmail.com](mailto:khaledhawash143@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/khaled-hawash-4ab450310)
+- 💼 [LinkedIn]([www.linkedin.com/in/khaled-hawash-4ab450310](https://www.linkedin.com/in/khaled-hawash-143jhl?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - 🧑‍💻 [GitHub](https://github.com/KHALEDXHAWASH)
 
 ---
 
-### 🎯 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House 😄
 
