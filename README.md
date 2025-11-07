@@ -1,12 +1,9 @@
-<!-- 🔹 Header with Animation -->
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="900" alt="coding animation">
-</p>
-
 <h1 align="center">
   <samp>👋 Hey, I'm <span style="color:#00d9ff;">Khaled Hawash</span></samp>
 </h1>
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="900" alt="coding animation">
+</p>
 <p align="center">
   <samp>🎓 Software Engineering Student @ FCAI Cairo University | 💻 Developer | 🚀 Always Learning</samp>
 </p>
@@ -84,23 +81,11 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
 | **Space App** | Astronomy data viewer. | Flutter |
 | **Encrypting System** | Data encryption & decryption. | C++ |
 | **MyEvently** | Event management and scheduling app. | Flutter |
-| **News App** | Real-time news fetcher. | Flutter + API |
+| **News App** | Real-time news fetcher. | Flutter |
 | **Metro Project** | Metro simulation with station routes. | Flutter |
 
 > 🌐 Check out my portfolio for demos → [**khaledxhawash.github.io/Portfolio**](https://khaledxhawash.github.io/Portfolio/)
 
----
-
-### 🖼️ Visual Highlights
-<p align="center">
-  <img src="https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/05/2024060506060-666037ac86a65799deeb6198jpeg.jpg?w=1000" width="90%" alt="Highlight 1"/>
-</p>
-
-<p align="center">
-  <img src="https://www.fox4news.com/_next/image?url=https%3A%2F%2Fimages.foxtv.com%2Fstatic.fox4news.com%2Fwww.fox4news.com%2Fcontent%2Fuploads%2F2024%2F10%2Fphoto-luka-doncic-lakers-debut.webp&w=1920&q=75" width="90%" alt="Highlight 2"/>
-</p>
-
----
 
 ### 📊 GitHub Performance
 <div align="center">
@@ -119,10 +104,4 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
   <a href="https://github.com/KHALEDXHAWASH"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://khaledxhawash.github.io/Portfolio/Khaled-Hawash-CV.pdf"><img src="https://img.shields.io/badge/View My CV-00d9ff?style=for-the-badge&logo=readme&logoColor=white" /></a>
   <a href="tel:+201127119318"><img src="https://img.shields.io/badge/Phone-%2350fa7b?style=for-the-badge&logo=phone&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:8A2BE2&height=120&section=footer&text=Thanks for visiting!&fontAlign=50&fontAlignY=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
