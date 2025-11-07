@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+<!-- Animated Coding Header -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="900" alt="coding animation">
 </p>
@@ -9,6 +9,13 @@
 
 <p align="center">
   <samp>🎓 Junior @ FCAI Cairo University | 💻 Software Engineer | 🚀 Always Learning</samp>
+</p>
+
+---
+
+<!-- Luka-Themed Visual Banner -->
+<p align="center">
+  <img src="https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/05/2024060506060-666037ac86a65799deeb6198jpeg.jpg?w=1000" width="850" alt="Motivational Banner">
 </p>
 
 ---
@@ -50,15 +57,6 @@
 
 ### 🧠 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/KHALEDXHAWASH/Your-Project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDXHAWASH&repo=Your-Project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/KHALEDXHAWASH/Your-Project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDXHAWASH&repo=Your-Project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 > 🧩 Want to see more? Explore my full work [**here →**](https://github.com/KHALEDXHAWASH?tab=repositories)
 
 ---
@@ -84,6 +82,11 @@
 </p>
 
 ---
+
+<!-- Inspirational Footer Image -->
+<p align="center">
+  <img src="https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/05/2024060506060-666037ac86a65799deeb6198jpeg.jpg?w=1000" width="900" alt="Inspiration">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:8A2BE2&height=120&section=footer&text=Thanks%20for%20visiting!&fontAlign=50&fontAlignY=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
