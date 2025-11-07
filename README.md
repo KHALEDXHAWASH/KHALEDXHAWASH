@@ -1,10 +1,10 @@
-<!-- Futuristic Header -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JrYWJkMG5zdjZpaWJpZmtxMnVrbTZvMzdkajNjZXZ3dXhpdG8zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="900" alt="code animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif)">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="900" alt="coding animation">
 </p>
 
 <h1 align="center">
-  <samp>👨‍💻 Hey, I'm <span style="color:#00d9ff;">Khaled Hawash</span></samp>
+  <samp>👋 Hey, I'm <span style="color:#00d9ff;">Khaled Hawash</span></samp>
 </h1>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ### 🧭 About Me
 
-> 💡 A passionate **software craftsman** who loves transforming ideas into powerful, efficient systems.  
-> 🧠 Exploring **Advanced Flutter**, **Backend Development**, and **Clean Architecture**.  
-> 🧩 I enjoy **solving complex problems** through elegant code and solid design principles.  
-> ⚡ Focused on writing **readable**, **scalable**, and **well-tested** software.  
+> 💡 Passionate about **Problem Solving**, **System Design**, and **Writing Clean Code**.  
+> 🧠 Exploring **Advanced Flutter**, **Backend Development**, and **Software Architecture**.  
+> 🧩 I love turning complex challenges into elegant, efficient solutions.  
+> ⚡ Focused on building **impactful**, **scalable**, and **maintainable** software systems.  
 
 ---
 
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,androidstudio,figma" />
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/OOP-Concepts-00d9ff?style=for-the-badge" /><br>
+  <img src="https://img.shields.io/badge/OOP%20Concepts-00d9ff?style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-ffb86c?style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/Clean%20Architecture-50fa7b?style=for-the-badge" /><br>
   <img src="https://img.shields.io/badge/Design%20Patterns-bb86fc?style=for-the-badge" />
@@ -48,6 +48,20 @@
 
 ---
 
+### 🧠 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/KHALEDXHAWASH/Your-Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDXHAWASH&repo=Your-Project-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/KHALEDXHAWASH/Your-Project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDXHAWASH&repo=Your-Project-2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> 🧩 Want to see more? Explore my full work [**here →**](https://github.com/KHALEDXHAWASH?tab=repositories)
+
+---
 
 ### 📊 GitHub Performance Dashboard
 
@@ -61,7 +75,7 @@
 
 ---
 
-### 🛰️ Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:khaledhawash143@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
