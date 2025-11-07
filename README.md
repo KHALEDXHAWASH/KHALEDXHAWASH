@@ -67,11 +67,7 @@
 
 ---
 
-### 🧠 Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+  <img src="[https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.pn](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif)"/>
 </p>
