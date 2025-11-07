@@ -1,11 +1,15 @@
 <h1 align="center">
   <samp>👋 Hey, I'm <span style="color:#00d9ff;">Khaled Hawash</span></samp>
 </h1>
+
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="900" alt="coding animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="400" alt="coding animation">
 </p>
+
 <p align="center">
-  <samp>🎓 Software Engineering Student @ FCAI Cairo University | 💻 Developer | 🚀 Always Learning</samp>
+  <a href="https://github.com/KHALEDXHAWASH">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=🎓+Software+Engineering+Student;💻+Developer;🧢+Always+Learning" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
@@ -54,18 +58,29 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
 - **Flutter Development – DEPI Initiative** (2025)  
   Advanced Flutter course: UX/UI, testing, deployment, and agile teamwork.  
 
-- **Sprints x Microsoft Summer Camp** (2025)  
-  Focused on applied AI, machine learning models, and data workflows.
-
 ---
 
-### 📜 Certifications
-- B2 English – CEFR (2023)  
-- Flutter Development – Route Academy (2025)  
-- Microsoft Intro to GenAI (2025)  
-- AI & ML Summer Camp – Sprints x Microsoft (2025)  
-- Intermediate Python & SQL – DataCamp (2025)  
-- Understanding ChatGPT & AI – DataCamp (2025)
+### 📜 Certifications & Highlights
+<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
+<ul>
+  <li>B2 English – CEFR (2023)</li>
+  <li>Flutter Development – Route Academy (2025)</li>
+  <li>Microsoft Intro to GenAI (2025)</li>
+  <li>Intermediate Python & SQL – DataCamp (2025)</li>
+  <li>Understanding ChatGPT & AI – DataCamp (2025)</li>
+</ul>
+</td>
+<td width="40%" align="center">
+  <img src="https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2024/05/2024060506060-666037ac86a65799deeb6198jpeg.jpg?w=1000" width="200" alt="Certificate Image" style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+</td>
+</tr>
+</table>
+
+</div>
+> 🌐 Explore more at → (https://khaledxhawash.github.io/Portfolio)
 
 ---
 
@@ -73,27 +88,26 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
 | Project | Description | Tech |
 |----------|--------------|------|
 | **Numbers Converting System** | Converts between number bases. | Python |
-| **Employees Management** | Handles employee data, salaries, and roles. | Python |
-| **The 100 Game** | A fun numeric race game. | Python |
-| **Tic Tac Toe** | Classic game (C++ & Flutter). | C++, Flutter |
-| **Islami App** | Islamic resources app. | Flutter |
 | **Image Processing** | Image filtering and processing. | C++ |
 | **Space App** | Astronomy data viewer. | Flutter |
-| **Encrypting System** | Data encryption & decryption. | C++ |
-| **MyEvently** | Event management and scheduling app. | Flutter |
 | **News App** | Real-time news fetcher. | Flutter |
 | **Metro Project** | Metro simulation with station routes. | Flutter |
 
-> 🌐 Check out my portfolio for demos → [**khaledxhawash.github.io/Portfolio**](https://khaledxhawash.github.io/Portfolio/)
+> 🌐 Explore more at → [**khaledxhawash.github.io/Portfolio**](https://khaledxhawash.github.io/Portfolio)
 
+---
 
-### 📊 GitHub Performance
+### 📊 GitHub Insights
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KHALEDXHAWASH&theme=tokyonight&hide_border=true&fire=00d9ff&ring=50fa7b&currStreakLabel=ffb86c" width="45%" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=KHALEDXHAWASH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" alt="GitHub Stats" />
+  <a href="https://github.com/KHALEDXHAWASH">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDXHAWASH&theme=tokyonight" width="95%" alt="GitHub Summary"/>
+  </a>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KHALEDXHAWASH&theme=tokyonight&hide_border=true&fire=00d9ff&ring=50fa7b&currStreakLabel=ffb86c" width="47%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KHALEDXHAWASH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDXHAWASH&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages"/>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDXHAWASH&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
 
 ---
 
@@ -102,4 +116,11 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
   <a href="https://www.linkedin.com/in/khaled-hawash-143jhl"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KHALEDXHAWASH"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://khaledxhawash.github.io/Portfolio/Khaled-Hawash-CV.pdf"><img src="https://img.shields.io/badge/View My CV-00d9ff?style=for-the-badge&logo=readme&logoColor=white" /></a>
+</p>
+
+---
+
+### 👋 Goodbye
+<p align="center">
+  <img src="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/02/1294/728/luka-wave.jpg?ve=1&tl=1" width="50%" alt="Thanks for visiting" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.3);" />
 </p>
