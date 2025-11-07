@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Khaled Hawash</span></h1>
-<h3 align="center">🎓 Junior @ FCAI Cairo University | 💻 Aspiring Software Engineer</h3>
+<h3 align="center">🎓 Junior @ FCAI Cairo University | 💻 Software Engineer</h3>
 
 ---
 
