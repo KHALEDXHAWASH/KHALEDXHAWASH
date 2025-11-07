@@ -3,7 +3,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="500" alt="coding animation">
 </p>
 
-<h1 align="center">👋 Hi there, I'm Khaled Hawash</h1>
+<h1 align="center">👋 Hi I'm Khaled Hawash </h1>
 <h3 align="center">🎓 Junior @ FCAI Cairo University | 💻 Aspiring Software Engineer</h3>
 
 ---
@@ -11,16 +11,14 @@
 ### 🚀 About Me
 
 🎯 Passionate about **Problem Solving**, **Building Efficient Systems**, and **Learning New Technologies**.  
-🧠 Currently exploring **Backend Development**, **REST APIs**, and **Clean Code Principles**.  
-⚡ Fun Fact: I enjoy debugging more than coding (most of the time 😄).  
-
+🧠 Currently exploring **Senior level flutter**, **REST APIs**, and **Clean Code Principles**.  
 ---
 
 ### 🧰 Tech Stack
 
 #### 🗣️ **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,java,flutter,mysql" />
 </p>
 
 #### 🛠️ **Frameworks & Tools**
@@ -32,8 +30,8 @@
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
 - Software Design Principles  
-- Problem Solving (Competitive Programming)
-
+- Problem Solving 
+- Clean architecture 
 ---
 
 ### 📊 GitHub Stats
@@ -49,26 +47,14 @@
 
 ---
 
-### 🏆 Achievements
 
-- 🥇 Participated in multiple **competitive programming** contests  
-- 📱 Built and published several **Flutter apps**  
-- ⚙️ Contributed to **open-source projects**  
-
----
 
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:khaledhawash143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khaled-hawash-143jhl?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KHALEDXHAWASH"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-### 🧠 Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ---
 
