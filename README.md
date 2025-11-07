@@ -99,9 +99,7 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:khaledhawash143@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khaled-hawash-143jhl"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KHALEDXHAWASH"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://khaledxhawash.github.io/Portfolio/Khaled-Hawash-CV.pdf"><img src="https://img.shields.io/badge/View My CV-00d9ff?style=for-the-badge&logo=readme&logoColor=white" /></a>
-  <a href="tel:+201127119318"><img src="https://img.shields.io/badge/Phone-%2350fa7b?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
