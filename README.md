@@ -1,17 +1,17 @@
-<!-- Profile Header -->
+<!-- Header Section -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif" width="500" alt="coding animation">
+</p>
+
 <h1 align="center">👋 Hi there, I'm Khaled Hawash</h1>
 <h3 align="center">🎓 Junior @ FCAI Cairo University | 💻 Aspiring Software Engineer</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-</p>
 
 ---
 
 ### 🚀 About Me
 
 🎯 Passionate about **Problem Solving**, **Building Efficient Systems**, and **Learning New Technologies**.  
-🧠 Always exploring **Backend Development**, **REST APIs**, and **Clean Code Principles**.  
+🧠 Currently exploring **Backend Development**, **REST APIs**, and **Clean Code Principles**.  
 ⚡ Fun Fact: I enjoy debugging more than coding (most of the time 😄).  
 
 ---
@@ -67,7 +67,11 @@
 
 ---
 
+### 🧠 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.pn](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif)"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 </p>
