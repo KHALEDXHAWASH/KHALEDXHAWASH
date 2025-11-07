@@ -1,6 +1,6 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JrYWJkMG5zdjZpaWJpZmtxMnVrbTZvMzdkajNjZXZ3dXhpdG8zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="900" alt="code animation">
+  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JrYWJkMG5zdjZpaWJpZmtxMnVrbTZvMzdkajNjZXZ3dXhpdG8zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="900" alt="code animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk0c2xqMjd2YWZldTE5azkxazcwZ2sxN3AzMzA2azZzeXJuZ2dveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qUXsxweEm8Pe9GRRLc/giphy.gif)">
 </p>
 
 <h1 align="center">
@@ -48,20 +48,6 @@
 
 ---
 
-### 🧠 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/KHALEDXHAWASH/Your-Project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDXHAWASH&repo=Your-Project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/KHALEDXHAWASH/Your-Project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KHALEDXHAWASH&repo=Your-Project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-> 🧩 Want to see more? Check out all my projects [**here →**](https://github.com/KHALEDXHAWASH?tab=repositories)
-
----
 
 ### 📊 GitHub Performance Dashboard
 
