@@ -51,14 +51,6 @@
 
 ---
 
-### 🧑‍💻 Featured Quote
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
-</p>
-
----
-
 ### 📬 Connect with Me
 
 <p align="center">
