@@ -1,5 +1,5 @@
 <h1 align="center">
-  <samp>👋 Hey, I'm <span style="color:#00d9ff;">Khaled Hawash</span></samp>
+  <samp>👋 HI, I'm <span style="color:#00d9ff;">Khaled Hawash</span></samp>
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/KHALEDXHAWASH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=🎓+Software+Engineering+Student;💻+Developer;🧢+Always+Learning" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=🎓+Software+Engineering+Student;💻+Flutter+Developer;🧢+Always+Learning" alt="Typing Animation" />
   </a>
 </p>
 
@@ -16,9 +16,7 @@
 
 ### 🧭 About Me
 <p align="center">
-I’m a <b>Software Engineering student</b> passionate about building robust, scalable, and elegant software.  
-Proficient in <b>C++</b> and <b>Python</b>, experienced with <b>Dart & Flutter</b>, and skilled in <b>algorithms, data structures,</b> and <b>OOP principles</b>.  
-I focus on <b>clean architecture, performance,</b> and delivering great <b>user experiences</b>.
+I am a software engineering student with strong proficiency in C++ and Python, foundational experience in Dart and Flutter, and a solid understanding of algorithms, data structures, and OOP principles. Eager to contribute to impactful projects in mobile and web development, with hands-on experience using Git, version control, and collaborative workflows.
 </p>
 
 ---
@@ -114,7 +112,6 @@ I focus on <b>clean architecture, performance,</b> and delivering great <b>user 
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-hawash-143jhl"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/KHALEDXHAWASH"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://khaledxhawash.github.io/Portfolio/Khaled-Hawash-CV.pdf"><img src="https://img.shields.io/badge/View My CV-00d9ff?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
 
