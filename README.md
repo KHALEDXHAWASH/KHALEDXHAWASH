@@ -46,18 +46,6 @@ I am a software engineering student with strong proficiency in C++ and Python, f
 
 ---
 
-### 🎓 Education & Experience
-- **Software Engineering Student** – Cairo University (2023 – Present)  
-  Specializing in software development, algorithms, and OOP.  
-
-- **Flutter Journey – Route Academy** (2025)  
-  Learned Dart, Flutter, Firebase, APIs, state management, and SOLID design.  
-
-- **Flutter Development – DEPI Initiative** (2025)  
-  Advanced Flutter course: UX/UI, testing, deployment, and agile teamwork.  
-
----
-
 ### 📜 Certifications & Highlights
 <div align="center">
 <table>
@@ -101,7 +89,7 @@ I am a software engineering student with strong proficiency in C++ and Python, f
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDXHAWASH&theme=tokyonight" width="95%" alt="GitHub Summary"/>
   </a>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KHALEDXHAWASH&theme=tokyonight&hide_border=true&fire=00d9ff&ring=50fa7b&currStreakLabel=ffb86c" width="47%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KHALEDXHAWASH&theme=tokyonight&hide_border=true&fire=00d9ff&ring=50fa7b&currStreakLabel=ffb86c" width="47.5%" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=KHALEDXHAWASH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" alt="GitHub Stats"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDXHAWASH&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages"/>
