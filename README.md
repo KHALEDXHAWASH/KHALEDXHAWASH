@@ -71,6 +71,9 @@ I am a software engineering student with strong proficiency in C++ and Python, f
 ---
 
 ### 🧠 Featured Projects
+<div align="center">
+
+  
 | Project | Description | Tech |
 |----------|--------------|------|
 | **Numbers Converting System** | Converts between number bases. | Python |
@@ -79,7 +82,11 @@ I am a software engineering student with strong proficiency in C++ and Python, f
 | **News App** | Real-time news fetcher. | Flutter |
 | **Metro Project** | Metro simulation with station routes. | Flutter |
 
-> 🌐 Explore more at → [**khaledxhawash.github.io/Portfolio**](https://khaledxhawash.github.io/Portfolio)
+<br>
+
+
+</div>
+> 🌐 Explore more at → (https://khaledxhawash.github.io/Portfolio)
 
 ---
 
