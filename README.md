@@ -86,12 +86,12 @@ I am a software engineering student with strong proficiency in C++ and Python, f
 ### 📊 GitHub Insights
 <div align="center">
   <a href="https://github.com/KHALEDXHAWASH">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDXHAWASH&theme=tokyonight" width="95%" alt="GitHub Summary"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KHALEDXHAWASH&theme=tokyonight" width="50%" alt="GitHub Summary"/>
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KHALEDXHAWASH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KHALEDXHAWASH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="50%" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDXHAWASH&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALEDXHAWASH&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Top Languages"/>
 </div>
 
 ---
