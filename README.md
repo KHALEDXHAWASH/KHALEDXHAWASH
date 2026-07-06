@@ -88,6 +88,7 @@ I am a software engineering student with strong proficiency in C++ and Python, f
 </div>
 > 🌐 Explore more at → (https://khaledxhawash.github.io/Portfolio)
 
+---
 
 ### 🌐 Connect with Me
 <p align="center">
